@@ -24,4 +24,5 @@ The app should now be installing, it will print down login information as soon a
 # How to upgrade to the latest version?
 After connecting via SSH, type<br>
 `cd WickHunterTVCompanion`<br>
-`npm i @wickhunter/trader@latest`
+`npm i @wickhunter/trader@latest`<br>
+`pm2 restart WickHunter`
