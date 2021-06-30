@@ -26,3 +26,6 @@ After connecting via SSH, type<br>
 `cd WickHunterTVCompanion`<br>
 `npm i @wickhunter/trader@latest`<br>
 `pm2 restart WickHunter`
+
+# Disclaimer
+We have tested these procedures with Vultr and Hetzner VPSs. Using any other providers might raise issues. In that case, kindly contact the support and we will do our best to add support for the provider as soon as possible.
