@@ -26,6 +26,7 @@ CREATE TABLE IF NOT EXISTS `exchange` (
 
 INSERT IGNORE INTO `exchange` (`Name`) VALUES
 ('binance'),
+('bybit_usdt'),
 ('bybit');
 
 CREATE TABLE IF NOT EXISTS `order_type` (
