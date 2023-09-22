@@ -1,3 +1,6 @@
+This version has been deprecated. Please visit www.wickhunter.io for the new and improved Wick Hunter.
+
+
 Welcome to WickHunterTVCompanion!
 
 # What are the requirements to run this app?
